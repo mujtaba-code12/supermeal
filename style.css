@@ -1,0 +1,1067 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+header{
+    width: 100%;
+}
+.container1{
+   display: flex;
+   
+}
+.menuicon {
+    width: 27px;
+    height: 25px;
+    position: absolute;
+    top: 36px;
+    left: 20px;
+}
+
+img.icon {
+    margin-left: 72px;
+    height: 50px;
+    width: 9%;
+    margin-top: 17px;
+}
+.menuicon {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 39px;
+    left: 20px;
+}
+.a {
+    font-weight: normal;
+    left: 867px;
+    position: absolute;
+    top: 32px;
+    font-size: 17px;
+}
+.b {
+    position: absolute;
+    top: 29px;
+    left: 1005px;
+    font-size: 18px;}
+.c {
+    position: absolute;
+    top: 28px;
+    left: 69%;
+    font-size: 18px; font-size: 18px;
+}
+button.signup {
+    font-size: 13px;
+    background: #fbff01;
+    border: none;
+    height: 34px;
+    width: 12%;
+    left: 1200px;
+    position: absolute;
+    top: 42px;
+}
+button.login {
+    font-size: 16px;
+    background: #67bf07;
+    border: none;
+    height: 33px;
+    width: 7%;
+    left: 1400px;
+    position: absolute;
+    top: 42px;
+}
+img.martlogo {
+    font-size: 16px;
+    border: none;
+    height: 29px;
+    width: 2%;
+    left: 1535px;
+    position: absolute;
+    top: 42px;
+}
+ul {
+    list-style: none;
+    display: flex
+;
+    text-decoration: none;
+}
+
+li {
+    margin: 28px;
+}
+.container2 {
+    width: 100%;
+    background: black;
+    color: white;
+    position: absolute;
+    top: 91px;
+    text-align: center;
+    height: 77px;
+}
+li {
+    margin: 28px;
+    margin-top: 13px;
+}
+ul {
+    font-weight: bolder;
+    font-family: math;
+    list-style: none;
+    display: flex
+;
+    text-decoration: none;
+    position: absolute;
+    left: 399px;
+    color: yellow;
+    font-size: 18px;
+}
+
+img.pastaimg {
+    top: 212px;
+    position: absolute;
+    width: 34%;
+    left: -292px;
+    height: 500px;
+}
+h1.super {
+    left: 30%;
+    position: absolute;
+    top: 30%;
+    font-size: 65px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+span{
+    color: red;
+}
+p.duscount {
+    color: #afa9a9;
+    left: 41%;
+    position: absolute;
+    top: 46%;
+    font-size: 24px;
+}
+
+input[type="search"] {
+    border-radius: 3px;
+    background: #f5f1f1;
+    font-weight: 700;
+    left: 22%;
+    position: absolute;
+    top: 60%;
+    width: 47%;
+    height: 67px;
+    font-size: 18px;
+    border: none;
+}
+
+img.appscreen {
+    left: 81%;
+    position: absolute;
+    width: 19%;
+    height: 500px;
+    top: 29%;
+}
+
+img.qr {
+    width: 6%;
+}
+
+button.search {
+    color: white;
+    border-radius: 1px;
+    background: #eb0808;
+    font-weight: 700;
+    left: 69%;
+    position: absolute;
+    top: 60%;
+    width: 9%;
+    height: 67px;
+    font-size: 21px;
+border: none;
+}
+
+
+button.voucher {
+    color: white;
+    border-radius: 1px;
+    background: #f1d406;
+    font-weight: 700;
+    left: 23%;
+    position: absolute;
+    top: 74%;
+    width: 15%;
+    height: 50px;
+    font-size: 21px;
+    border: none;
+}
+
+img.qr {
+    border-radius: 1px;
+    font-weight: 700;
+    left: 39%;
+    position: absolute;
+    top: 74%;
+    width: 3%;
+    height: 49px;
+    font-size: 21px;
+    border: none;
+}
+
+button.APP {
+    color: white;
+    border-radius: 1px;
+    background: #000000;
+    font-weight: 700;
+    left: 56%;
+    position: absolute;
+    top: 74%;
+    width: 9%;
+    height: 50px;
+    font-size: 17px;
+    border: none;
+}
+
+img.apple {
+    border-radius: 4px;
+    font-weight: 700;
+    left: 1033px;
+    position: absolute;
+    top: 570px;
+    width: 4%;
+    height: 51px;
+    font-size: 21px;
+    border: none;
+    background: #f1e9e9;
+}
+
+img.playstore {
+    border-radius: 1px;
+    font-weight: 700;
+    left: 1100px;
+    position: absolute;
+    top: 570px;
+    width: 54px;
+    height: 52px;
+    font-size: 21px;
+    border: none;
+    background: #f1e9e9;
+}
+                                         /* container4 start */
+                                      
+
+.conatainer4 {
+   position: absolute;
+   top: 135%;
+ 
+}
+
+hr {
+    top:-90px;
+    position: absolute;
+    width: 99%;
+ }
+ .main {
+    display: inline-flex;
+    
+}
+.w3-card-2 {
+    width: 35%;
+    margin:7px 109px 5px 151px;
+}
+img.cashback {
+    width: 74%;
+}
+img.review {
+    width: 78%;
+}
+img.refer-a-friend {
+    width: 78%;
+}
+button.LEARN1 {
+    border-radius: 6px;
+    background: #f3f309;
+    border: none;
+    height: 33px;
+    margin-top: 20px;
+    width: 115px;
+    font-size: 11px;
+    margin: 58px -75px -3px 26px;
+}
+button.LEARN2 {
+    border-radius: 6px;
+    background: #f3f309;
+    border: none;
+    height: 33px;
+    margin-top: 20px;
+    width: 115px;
+    font-size: 11px;
+    margin: 46px 9px 9px 48px;
+}
+
+
+button.LEARN3 {
+    border-radius: 6px;
+    background: #f3f309;
+    border: none;
+    height: 33px;
+    margin-top: 20px;
+    width: 115px;
+    font-size: 11px;
+    margin: 37px 6px 6px 46px;
+}
+
+p.threeimg {
+    margin: 32px 6px 13px 24px;
+    font-size: 16px;
+    font-family: fantasy;
+}
+.divb {
+    position: absolute;
+    bottom: -80%;
+    left: 42%;
+}
+hr.a2 {
+    width: 333%;
+    margin: 31px 22px 14px -482px;
+}
+hr.a3 {
+    width: 476%;
+    margin: 3px 22px 14px -574px;
+}
+h1.orderagian {
+    font-size: 41px;
+    margin: -8px 1px 90px -20px;
+}
+p.logred {
+    margin: -25px 6px 5px -34px;
+    font-size: 23px;
+    color: #8d8686;
+    margin-top: 20px;
+}
+hr.a3 {
+    width: 333%;
+    margin: 277px 30px 17px -480px;
+}
+.container5 {
+    left: 40%;
+    position: absolute;
+    top: 235%;
+}
+h1.popcu {
+    font-size: 45px;
+    margin: 97px 4px 27px -69px;
+}
+/* The grid: Four equal columns that floats next to each other */
+.column {
+    float: inherit;
+    width: 25%;
+    padding: 11px;
+}
+  /* Style the images inside the grid */
+  .column img {
+    cursor: pointer;
+    width: 203px;
+    margin-left: 35px;
+}
+  .column img:hover {
+    opacity: 1;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* The expanding image container (positioning is needed to position the close button and the text) */
+  .container {
+    position: relative;
+    display: none;
+  }
+  
+  /* Expanding image text */
+  #imgtext {
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    color: white;
+    font-size: 20px;
+  }
+  
+  /* Closable button inside the image */
+  .closebtn {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    color: white;
+    font-size: 35px;
+    cursor: pointer;
+  }
+  
+  .row {
+    display: flex;
+    margin-left: -471px;
+}
+h3.dink {
+    text-align: center;
+}
+
+.order ma{
+    display: inline-flex;
+}
+.h3p {
+    font-size: 16px;
+    margin-top: 237px;
+    margin-left: 390px;
+}
+img.recommend-restaurant {
+    position: absolute;
+    left: -53%;
+    top: 79%;
+}
+
+.container6 {
+    position: absolute;
+    top: 418%;
+    left: auto;
+    background-color: #000000;
+    width: 100%;
+    height: 990px;
+}
+.boxa {
+    margin-left: 112px;
+    height: 264px;
+    width: 43%;
+    background: red;
+    margin-top: -114px;
+    border-radius: 6px;
+}
+img.share-with {
+    margin-left: 38px;
+    width: 25%;
+    margin-top: 54px;
+}
+p.erancash {
+    font-size: 24px;
+    font-family: fantasy;
+    color: white;
+    margin-top: -133px;
+    margin-left: 278px;
+    width: 14pc;
+}
+button.enqire {
+    background: yellow;
+    height: 34px;
+    width: 16%;
+    border: none;
+    margin-left: 41%;
+    margin-top: -8px;
+}
+.boxb {
+    height: 264px;
+    width: 42%;
+    background: yellow;
+    margin-top: -284px;
+    border-radius: 6px;
+    margin-left: 52%;
+    border-radius: 8px;
+}
+p.newsseller {
+    font-size: 19px;
+    font-family: system-ui;
+    color: #715c5c;
+    width: 79%;
+    text-align: -webkit-auto;
+    padding: 74px 4px 5px 47px;
+}
+input#emailh {
+    border: none;
+    width: 56%;
+    height: 31px;
+    margin-left: 48px;
+    color: #916d6d;
+}
+button.SUBSCRIBE {
+    height: 32px;
+    width: 18%;
+    border: none;
+    background: red;
+    color: white;
+    font-size: 18px;
+    font-family: system-ui;
+    font-weight: 700;
+}
+
+
+ 
+
+
+.container7 {
+    position: absolute;
+    top: 457%;
+    width: 100%;
+    height: 481px;
+    background: black;
+}
+  
+
+
+
+
+
+
+
+
+.footerf .h3f {
+    font-size: 23px;
+    text-decoration: underline;
+    color: yellow;
+    margin: -25px 7px 33px 181px;
+}
+ul.ulf {
+    display: contents;
+    font-size: 18px;
+    font-family: math;
+}
+.lif a {
+    text-decoration: none;
+    color: white;
+    margin: 1px 1px 3px 154px;
+}
+
+
+
+
+.footerf .h3ff {
+    font-size: 23px;
+    text-decoration: underline;
+    color: yellow;
+    margin: -207px 7px 33px 442px;
+}
+ul.ulff {
+    display: contents;
+    font-size: 18px;
+    font-family: math;
+}
+.liff a {
+    text-decoration: none;
+    color: white;
+    margin: 1px 1px 3px 413px;
+}
+
+
+.footerf .h3fff {
+    font-size: 23px;
+    text-decoration: underline;
+    color: yellow;
+    margin: -256px 7px 33px 714px;
+}
+ul.ulfff {
+    display: contents;
+    font-size: 18px;
+    font-family: math;
+}
+.lifff a {
+    text-decoration: none;
+    color: white;
+    margin: 1px 1px 3px 684px;
+}
+
+.footerf .h3ffff {
+    font-size: 23px;
+    text-decoration: underline;
+    color: yellow;
+    margin: -353px 7px 33px 1004px;
+}
+ul.ulffff {
+    display: contents;
+    font-size: 18px;
+    font-family: math;
+}
+.liffff a {
+    text-decoration: none;
+    color: white;
+    margin: 1px 1px 3px 978px;
+}
+
+
+
+.footerf .h3fffff {
+    font-size: 23px;
+    text-decoration: underline;
+    color: yellow;
+    margin: -599px 7px 33px 1232px;
+}
+p.pfffff {
+    color: white;
+    width: 16%;
+    margin-left: 78%;
+    font-size: 18px;
+    font-family: math;
+    font-weight: bolder;
+}
+.footer-row.socialsffffff {
+    position: absolute;
+    left: 78%;
+    top: 143%;
+}
+.footerf .h3ffffff {
+    font-size: 27px;
+    text-decoration: underline;
+    color: #fbff01;
+    margin: -482px 7px 33px 3px;
+}
+img.imgffffff {
+    width: 9%;
+    margin: -8px -1px 21px 6px;
+}
+
+                                          /* login-page start */
+
+ .right-sode-loginwith {
+margin-top: 122px;
+margin-left: 20%;
+}                                          
+
+input#facebook {
+    height: 28px;
+    width: 18%;
+}
+.left-sode-loginemail {
+    margin-top: -9%;
+    margin-left: 54%;
+}
+p.orlogin {
+    margin-left: 46%;
+    margin-top: -84px;
+}
+input#facebook {
+    font-size: 14px;
+    height: 48px;
+    width: 27%;
+    background-color: #2e426c;
+    text-align: center;
+    border-radius: 7px;
+    border: none;
+}
+input#google {
+    margin: 11px 9px 13px 0px;
+    font-size: 14px;
+    height: 48px;
+    width: 27%;
+    background-color: #3765c5;
+    text-align: center;
+    border-radius: 9px;
+    border: none;
+}
+img.fbiconlogin {
+    width: 50px;
+    position: absolute;
+    top: 253px;
+    left: 317px;
+}
+img.googlelogin {
+    width: 50px;
+    position: absolute;
+    top: 314px;
+    left: 317px;
+}
+h2.login-with {
+    color: #585656;
+    font-size: 32px;
+    font-family: ui-serif;
+}
+h2.login-withemail {
+    color: #585656;
+    font-size: 32px;
+    font-family: ui-serif;
+}
+input#email {
+    font-size: 14px;
+    height: 52px;
+    width: 43%;
+    border-radius: 4px;
+    text-align: justify;
+    margin: -11px 7px 16px 0px;
+}
+input#password {
+    font-size: 14px;
+    height: 51px;
+    width: 43%;
+    text-align: center;
+    border-radius: 4px;
+    text-align: left;
+}
+.a {
+    font-weight: normal;
+    left: 867px;
+    position: absolute;
+    top: 32px;
+    font-size: 17px;
+    color: black;
+}
+p.logpass {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #544646;
+}
+button.account {
+    width: 24%;
+    height: 39px;
+    font-size: 18px;
+    background-color: #fdde00;
+    border: none;
+    font-family: sans-serif;
+}
+button.create-login {
+    font-size: 16px;
+    background: #67bf07;
+    border: none;
+    height: 39px;
+    width: 11%;
+    margin-left: 61px;
+    color: #fff8f8;
+    font-weight: 500;
+}
+button.APP-login {
+    color: white;
+    border-radius: 1px;
+    background: #000000;
+    font-weight: 700;
+    height: 50px;
+    font-size: 17px;
+    border: none;
+}
+.login-app2 {
+    padding: 8px 3px 4px 2px;
+    display: flex
+;
+}
+
+img.apple-login {
+    border-radius: 4px;
+    font-weight: 700;
+    height: 51px;
+    font-size: 21px;
+    border: none;
+    background: #f1e9e9;
+    margin: 1px 8px 4px 13px;
+}
+
+img.playstore-login {
+    border-radius: 1px;
+    font-weight: 700;
+    width: 54px;
+    height: 52px;
+    font-size: 21px;
+    border: none;
+    background: #f1e9e9;
+} */
+                                                      /* login-page end */
+
+
+                           /* help-page start */
+ a {
+    color: black;
+}
+.body-help{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #fff;
+    color: #333;
+  }
+
+  .container-help1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 80px;
+  }
+
+  .faq-section-help {
+    width: 55%;
+    margin-left: 17px
+  }
+
+  .h2-help {
+    font-size: 24px;
+    font-weight: normal;
+    margin-bottom: 20px;
+  }
+
+  .faq-item-help1 {
+    background: #f9f9f9;
+    margin-bottom: 10px;
+    padding: 15px 20px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    font-size: 14px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .faq-item-help1::after {
+    content: '\25B6';
+    color: #333;
+  }
+
+  .contact-section-help {
+  width: 40%;
+  font-size: 14px;
+  position: absolute;
+  top: 21%;
+  left: 930px;
+}
+
+  .contact-section-help .h3-help, .business-inquiry .h3-help {
+    margin-top: 0;
+    font-size: 16px;
+    font-weight: bold;
+  }
+
+  .contact-section-help .p-help, .business-inquiry-help .p-help {
+    margin: 5px 0;
+  }
+
+  .business-inquiry-help .a-help {
+    color: red;
+    text-decoration: none;
+  }
+
+  .footer-help {
+    text-align: left;
+    font-size: 12px;
+    padding: 20px 80px;
+    border-top: 1px solid #ddd;
+  }
+
+  @media (max-width: 768px) {
+    .container-help1 {
+      flex-direction: column;
+      padding: 20px;
+    }
+    .faq-section-help, .contact-section-help {
+      width: 100%;
+    }
+    .footer-help {
+      padding: 20px;
+      text-align: center;
+    }
+  }                                                   help-page end */
+                                      
+                                                 /* form-page start */
+
+
+
+                                                 .form-container-signup {
+    background: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    margin-left: 36%;
+    margin-top: 139px;
+    padding: 17px;
+}
+.form-container-signup {
+    width: 22%;
+    margin-left: 40%;
+    margin-top: 116px;
+    text-align: center;
+    background: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    margin-left: 36%;
+    margin-top: 139px;
+    padding: 40px;
+}
+  .form-container-signup .h2-signup {
+    margin-bottom: 10px;
+    font-size: 24px;
+  }
+  .form-container-signup .p-signup {
+    font-size: 12px;
+    color: #888;
+  }
+  .input-group-signup {
+    position: relative;
+    margin-bottom: 20px;
+  }
+  .input-group-signup .input-signup {
+    width: 78%;
+    padding: 10px 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+  }
+  .input-group-signup i {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #888;
+  }
+  .checkbox-group-signup {
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+  }
+  .checkbox-group-signup .input-signup {
+    margin-right: 5px;
+  }
+  .checkbox-group-signup .a-signup {
+    color: red;
+    text-decoration: none;
+  }
+  .submit-btn-signup {
+    width: 100%;
+    background: #00b300;
+    color: #fff;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .submit-btn-signup:hover {
+    background: #009900;
+  }
+
+                                                    /* form-page end */
+                                                    /* aboutus-page  start */
+                                                   
+                                                  
+                                                      .popup-about {
+                                                        background: white;
+                                                        width: 400px;
+                                                        border-radius: 12px;
+                                                        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+                                                        overflow: hidden;
+                                                        margin-left: 37%;
+                                                        margin-top: 9%;
+                                                      }
+                                                  
+                                                      .popup-header-about {
+                                                        background: #FFD700;
+                                                        padding: 20px;
+                                                        text-align: center;
+                                                      }
+                                                  
+                                                      .popup-header-about img {
+                                                        width: 80px;
+                                                      }
+                                                  
+                                                      .popup-content-about {
+                                                        padding: 20px;
+                                                        text-align: center;
+                                                      }
+                                                  
+                                                      .popup-content-about h2 {
+                                                        font-size: 24px;
+                                                        margin-bottom: 10px;
+                                                      }
+                                                  
+                                                      .popup-content-about p {
+                                                        font-size: 14px;
+                                                        line-height: 1.5;
+                                                        color: #333;
+                                                      }
+                                                  
+                                                      .popup-content-about .btn-about {
+                                                        background: black;
+                                                        color: white;
+                                                        padding: 10px 20px;
+                                                        border-radius: 8px;
+                                                        font-size: 14px;
+                                                        text-decoration: none;
+                                                        display: inline-block;
+                                                        margin-top: 10px;
+                                                      }
+                                                  
+                                                      .popup-footer-about {
+                                                        background: #FFD700;
+                                                        padding: 10px;
+                                                        display: flex;
+                                                        justify-content: center;
+                                                        gap: 10px;
+                                                      }
+                                                  
+                                                      .popup-footer-about img {
+                                                        width: 24px;
+                                                        cursor: pointer;
+                                                      } */
+
+
+
+                                                 /* aboutus-page  end */
+                                                 
+                                                 /* share or review-page  start */
+                                                 /* body.sharebody {
+                                                    font-family: Arial, sans-serif;
+                                                    margin: 40px;
+                                                    line-height: 1.6;
+                                                    color: #333;
+                                                }
+                                                h1 {
+                                                    font-size: 20px;
+                                                    font-weight: bold;
+                                                }
+                                                h2 {
+                                                    font-size: 18px;
+                                                    font-weight: bold;
+                                                }
+                                                p {
+                                                    font-size: 14px;
+                                                }
+                                                table {
+                                                    width: 100%;
+                                                    border-collapse: collapse;
+                                                    margin: 20px 0;
+                                                }
+                                                th, td {
+                                                    border: 1px solid #ccc;
+                                                    padding: 8px;
+                                                    text-align: left;
+                                                }
+                                                th {
+                                                    background-color: #f4f4f4;
+                                                }
+                                                .highlight {
+                                                    color: red;
+                                                    font-weight: bold;
+                                                }
+                                                .error {
+                                                    color: red;
+                                                    font-weight: bold;
+                                                }
+                                                footer {
+                                                    margin-top: 40px;
+                                                    font-size: 12px;
+                                                    color: #555;
+                                                }
+                                                li {
+                                                    margin: -10px;
+                                                    margin-top: 13px;
+                                                    margin-left: 32px;
+                                                    list-style-type: disclosure-closed;
+                                                }
+                                                ul {
+                                                    font-weight: bolder;
+                                                    font-family: math;
+                                                    list-style: none;
+                                                    display: contents;
+                                                    text-decoration: none;
+                                                    position: absolute;
+                                                    left: 399px;
+                                                    color: yellow;
+                                                    font-size: 18px;
+                                                }
+ */
+
+
+                                                    /* share or review-page  end */
